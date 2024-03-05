@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CameraDegree</string>
+    <string name="loading">Mohon Tunggu...</string>
+    <string name="nofound">Kaki Tidak Terdeteksi!\nSilahkan Coba Lagi</string>
+    <string name="reterror">Gagal Unggah Gambar!\nSilahkan Coba Lagi</string>
+</resources>
